@@ -5,3 +5,4 @@
 4. Printing text using the puts function
 5. Printing texts using the printf
 6. A C program that prints the size of various types on the computer it is compiled and run on.
+7. A script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
