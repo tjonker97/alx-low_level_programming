@@ -4,3 +4,4 @@
 3. A script that compiles a C file and creates an executable named cisfun.
 4. Printing text using the puts function
 5. Printing texts using the printf
+6. A C program that prints the size of various types on the computer it is compiled and run on.
