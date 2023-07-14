@@ -4,8 +4,8 @@
 
 /**
  * main - Entry point
- * Description - Determine whether a randomly generated integer is positive, zero or negative
- * Return value - Always Zero
+ * Description: 'Determine whether an integer is positive or negative'
+ * Return: Always 0
  */
 int main(void)
 {
