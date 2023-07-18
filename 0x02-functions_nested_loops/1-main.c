@@ -2,7 +2,7 @@
 
 /**
  * main - check the code
- *
+ * Description: 'Print lowercase alphabets'
  * Return: Always 0.
  */
 int main(void)

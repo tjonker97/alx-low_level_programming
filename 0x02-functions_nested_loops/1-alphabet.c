@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- * Description: Print lowercase alphabest
+ * Description: 'Print lowercase alphabets'
  * Return: 0
  */
 
