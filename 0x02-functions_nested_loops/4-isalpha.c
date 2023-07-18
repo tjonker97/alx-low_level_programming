@@ -5,7 +5,7 @@
  *
  * @c: The character in ASCII code
  *
- * Return: 1 if c is a letter, lowercase or uppercase. 
+ * Return: 1 if c is a letter, lowercase or uppercase.
  * 0 otherwise
  */
 
