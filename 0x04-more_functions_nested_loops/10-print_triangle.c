@@ -3,8 +3,6 @@
 /**
  * print_triangle - Prints a triangle followed by a line
  *
- * @rows: Variable for the number of rows
- * @hash: Variable for the number of hashes
  * @size: Size of the triangle
  * Return: Void
  */
