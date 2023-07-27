@@ -4,7 +4,7 @@
 /**
  * string_toupper - changes all lowercase letters
  * of a string to uppercase
- * @*: Pointer to a character
+ * @str: Pointer to a character
  * Return: Pointer to a character
  */
 
