@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stddef.h> /* For size_t */
 #include "lists.h"
 
 /**
