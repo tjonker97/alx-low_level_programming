@@ -4,3 +4,4 @@
 3. A function that adds a new node at the end of a listint_t list.
 4. A  function that frees a listint_t list.
 5. A function that frees a listint_t list
+6. A function that deletes the head node of a listint_t linked list, and returns the head node’s data (n)
